@@ -1,0 +1,24 @@
+{
+    "name": "bulton-fr/bfw-hello-world",
+    "type": "library",
+    "description": "Hello World module for BFW",
+    "homepage": "https://github.com/bulton-fr/bfw-hello-world",
+    "time": "2016-09-25",
+    "license": "LGPL-3.0",
+    "authors": [
+        {
+            "name": "Vermeulen Maxime / Bulton",
+            "homepage": "http://www.bulton.fr",
+            "email": "bulton.fr@gmail.com"
+        }
+    ],
+    "support": {
+        "email": "support@bulton.fr",
+        "issues": "https://github.com/bulton-fr/bfw-hello-world/issues",
+        "source": "https://github.com/bulton-fr/bfw-hello-world"
+    },
+    "require": {
+        "bulton-fr/bfw": "3.*"
+    },
+    "minimum-stability": "RC"
+}
