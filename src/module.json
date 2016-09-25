@@ -1,0 +1,5 @@
+{
+    "runner": "helloWorld.php",
+    "priority": 0,
+    "require": []
+}
