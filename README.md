@@ -5,7 +5,7 @@ This is a module to introduce the module system in BFW v3.x
 
 The second utility is to test module installation system.
 
-# Installation
+# Installation
 We recommend to use composer for installation.
 
 Download composer : https://getcomposer.org/download/
